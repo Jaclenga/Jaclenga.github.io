@@ -5,6 +5,10 @@
 
 - type: twitter
   icon: "fab fa-twitter"
+  
+- type: Linkedin
+  icon: "fab fa-linkedin"
+  link: "https://www.linkedin.com/in/jacklenga/"
 
 #- type: email
 #  icon: "fas fa-envelope"
