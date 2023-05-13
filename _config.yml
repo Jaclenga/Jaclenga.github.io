@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: ""
+baseurl: "/Jaclenga.github.io"
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -13,7 +13,7 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -23,10 +23,11 @@ title: Jack Lenga # the main title
 tagline: Writing, Coding, Designing # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A CMU student passionate for cybersecurity and UX
+  I'm a CMU student passionate for cybersecurity and technical communications.
 
-# fill in the protocol & hostname for your site, e.g., 'https://Jaclenga.github.io'
+# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "Jaclenga.github.io"
+
 
 github:
   username: Jaclenga # change to your github username
