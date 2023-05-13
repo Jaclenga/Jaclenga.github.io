@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A CMU student passionate for cybersecurity and UX
 
 # fill in the protocol & hostname for your site, e.g., 'https://Jaclenga.github.io'
-url: "Jaclenga.github.io"
+url: "/Jaclenga.github.io"
 
 github:
   username: Jaclenga # change to your github username
