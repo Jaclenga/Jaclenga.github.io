@@ -5,6 +5,8 @@ order: 4
 ---
 Hi! I'm Jack, an aspiring technical writer and security engineer studying at Carnegie Mellon University.
 
+---
+
 # Experience
 
 **Director of Marketing** - *Physics for the Planet* \
@@ -17,6 +19,8 @@ Hi! I'm Jack, an aspiring technical writer and security engineer studying at Car
 *Jan 2022 - Aug 2022*
 - Tutored subjects from elementary math to algebra II
 - Worked with up to 9 students in 1-2 hour sessions per workday
+
+---
 
 # Skills
 
@@ -31,3 +35,20 @@ Hi! I'm Jack, an aspiring technical writer and security engineer studying at Car
 **Research**
 
 > Affinity Diagrams, Interviews, Surveys, Fly-On-The-Wall Observations
+
+---
+
+# Education
+
+### Carnegie Mellon University (2022-2026)
+**Courses Taken**
+* 15-112: Fundamentals of Programming
+* 21-240: Matrix Algebra with Applications
+* 36-200: Reasoning with Data
+* 76-107: Writing About Data
+
+---
+
+# Disclaimer
+
+The opinions expressed on this website are of my own and not necessarily of my employer
