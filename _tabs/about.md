@@ -1,4 +1,5 @@
 ---
+title: "about"
 icon: fas fa-info-circle
 order: 4
 ---
@@ -21,7 +22,7 @@ Hi! I'm Jack, an aspiring technical writer and security engineer studying at Car
 
 **Software**
 
-> LibreOffice, Microsoft Word, Figma, Slack, Visual Studio Code, Command Line, Trello, Jekyll
+> LibreOffice, Microsoft Word, Figma, Slack, Visual Studio Code, Command Line, Trello, Jekyll, Git, GitHub
 
 **Languages**
 
