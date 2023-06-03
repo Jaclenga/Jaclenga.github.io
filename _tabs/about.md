@@ -5,7 +5,7 @@ order: 4
 ---
 Hi! I'm Jack, an aspiring technical writer and security engineer studying at Carnegie Mellon University.
 
----
+--- 
 
 # Experience
 
@@ -30,7 +30,7 @@ Hi! I'm Jack, an aspiring technical writer and security engineer studying at Car
 
 **Languages**
 
-> Python, JavaScript, HTML, MarkDown
+> Python, JavaScript, HTML, MarkDown, SQL
 
 **Research**
 
@@ -40,12 +40,27 @@ Hi! I'm Jack, an aspiring technical writer and security engineer studying at Car
 
 # Education
 
+### Certifications/Credentials
+
+* [Google's Cybersecurity Certification (via Coursera)](https://www.coursera.org/account/accomplishments/professional-cert/JJ7B4LMPS2WU?utm_source=email&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+* [Hubspot's Inbound Certification](https://app.hubspot.com/academy/achievements/lc0lsyjt/en/1/jack-lenga/inbound)
+
 ### Carnegie Mellon University (2022-2026)
 **Courses Taken**
 * 15-112: Fundamentals of Programming
 * 21-240: Matrix Algebra with Applications
 * 36-200: Reasoning with Data
 * 76-107: Writing About Data
+
+**Extracurriculars/Clubs** 
+
+*Design for America*
+* Worked with team to revice School of Computer Science's Research Position posting list (think of it like Indeed, but for CMU research positions)
+* Helped devise survey for user feedback on old design
+* Organized several one-on-one interviews to discuss user feedback on old design
+
+*The Writing Academy*
+* Met with mentor several times across school year to discuss career goals (specifically in technical writing)
 
 ---
 
