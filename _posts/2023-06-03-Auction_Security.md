@@ -6,7 +6,7 @@ date: 2023-06-02 14:01:30 -0500
 ---
 Here's a short article I wrote for job application a while back. Hope you enjoy!
 
-## Cybersecurity Practices for Electronic Auctions"
+## Cybersecurity Practices for Electronic Auctions
 
 Electronic auctions, or e-auctions, have gained popularity due to their relative ease over traditional auctions. With auction-related fraud among the most common forms of fraud in the USA (Chen, 2022), e-auction platforms require special protocols to prevent malicious behavior from both bidders and sellers. For example, auctioneers may collect bids without delivering the product for sale, or bidders may collude to gain an unfair advantage. Here are three principal security principles for maintaining fairness in e-auctions:
 
@@ -34,5 +34,5 @@ Zero trust, decentralization, and privacy are essential for conducting secure el
 
 **References**
 
-Center, C. C. (2015). 2015 Internet Crime Report.
+Center, C. C. (2015). 2015 Internet Crime Report. \
 Chen, B., Li, X., Xiang, T., & Wang, P. (2022). SBRAC: Blockchain-based sealed-bid auction with bidding price privacy and public verifiability. Journal of Information Security and Applications, 65, 103082.
