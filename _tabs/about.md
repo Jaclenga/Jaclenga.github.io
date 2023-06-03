@@ -26,7 +26,7 @@ Hi! I'm Jack, an aspiring technical writer and security engineer studying at Car
 
 **Software**
 
-> LibreOffice, Microsoft Word, Figma, Slack, Visual Studio Code, Command Line, Trello, Jekyll, Git, GitHub
+> Jira, Confluence, Microsoft 360, Figma, Slack, VS Code, Command Line, Trello, Jekyll, Git, GitHub
 
 **Languages**
 
@@ -60,7 +60,7 @@ Hi! I'm Jack, an aspiring technical writer and security engineer studying at Car
 * Organized several one-on-one interviews to discuss user feedback on old design
 
 *The Writing Academy*
-* Met with mentor several times across school year to discuss career goals (specifically in technical writing)
+* Met with mentor several times across school year to discuss career goals (specifically for technical writing)
 
 ---
 
