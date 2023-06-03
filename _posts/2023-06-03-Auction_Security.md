@@ -2,7 +2,7 @@
 layout: post
 title: "Cybersecurity Practices for Electronic Auctions"
 categories: [Portfolio, Essays]
-date: 2023-06-03 14:01:30 -0500
+date: 2023-06-02 14:01:30 -0500
 ---
 Here's a short article I wrote for job application a while back. Hope you enjoy!
 
