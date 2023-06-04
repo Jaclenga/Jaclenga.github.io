@@ -34,5 +34,5 @@ Zero trust, decentralization, and privacy are essential for conducting secure el
 
 **References**
 
-Center, C. C. (2015). *2015 Internet Crime Report*. Retrieved from !(https://nsi.org/ReferenceLibrary/1265.pdf)[https://nsi.org/ReferenceLibrary/1265.pdf].\
-Chen, B., Li, X., Xiang, T., & Wang, P. (2022). SBRAC: Blockchain-based sealed-bid auction with bidding price  privacy and public verifiability. *Journal of Information Security and Applications*, 65, 103082. Retrieved from !(https://www.sciencedirect.com/science/article/abs/pii/S2214212621002635)[https://www.sciencedirect.com/science/article/abs/pii/S2214212621002635].
+1. Center, C. C. (2015). 2015 Internet Crime Report. Retrieved from [https://nsi.org/ReferenceLibrary/1265.pdf](https://nsi.org/ReferenceLibrary/1265.pdf).
+2. Chen, B., Li, X., Xiang, T., & Wang, P. (2022). SBRAC: Blockchain-based sealed-bid auction with bidding price  privacy and public verifiability. *Journal of Information Security and Applications*, 65, 103082. Retrieved from [https://www.sciencedirect.com/science/article/abs/pii/S2214212621002635](https://www.sciencedirect.com/science/article/abs/pii/S2214212621002635).
