@@ -3,15 +3,21 @@ title: "about"
 icon: fas fa-info-circle
 order: 4
 ---
-Hi! I'm Jack, an aspiring technical writer and security engineer studying at Carnegie Mellon University.
+Hi! I'm Jack, an aspiring technical writer + security engineer studying at Carnegie Mellon University.
 
 --- 
 
 # Experience
 
+**Technical Intern** - *Northrop Grumman* \
+*May 2023 - Present*
+- Shadowed DevOps engineers performing various tasks, including systems troubleshooting
+- Wrote documentation for the setup of various hardware + software
+- Used Microsoft 360 tools (Powerpoint, Excel, Visio) to create/edit presentations + diagrams 
+
 **Director of Marketing** - *Physics for the Planet* \
-*Aug 2022 - Present*
-- Developed sitemap for student-run nonprofit covered on local and national news outlets including FOX 40 & Digital Journal
+*Aug 2022 - Jun 2023*
+- Developed sitemap for student-run nonprofit covered on local and national news outlets including FOX 40 + Digital Journal
 - Edited emails for the outreach team + articles for the blog
 - Wrote web copy + currently revising the UX writing/design for the site
 
@@ -26,7 +32,7 @@ Hi! I'm Jack, an aspiring technical writer and security engineer studying at Car
 
 **Software**
 
-> Jira, Confluence, Microsoft 360, Figma, Slack, VS Code, Command Line, Trello, Jekyll, Git, GitHub
+> Jira, Confluence, Microsoft 360, Figma, Slack, VS Code, Command Line, Trello, Jekyll, Git, GitHub, Ubuntu
 
 **Languages**
 
@@ -49,6 +55,7 @@ Hi! I'm Jack, an aspiring technical writer and security engineer studying at Car
 **Courses Taken**
 * 15-112: Fundamentals of Programming
 * 21-240: Matrix Algebra with Applications
+* 21-120: Differential and Integral Calculus
 * 36-200: Reasoning with Data
 * 76-107: Writing About Data
 
