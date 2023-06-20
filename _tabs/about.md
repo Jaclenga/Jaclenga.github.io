@@ -49,6 +49,7 @@ Hi! I'm Jack, an aspiring technical writer + security engineer studying at Carne
 ### Certifications/Credentials
 
 * [Google's Cybersecurity Certification (via Coursera)](https://www.coursera.org/account/accomplishments/professional-cert/JJ7B4LMPS2WU?utm_source=email&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+* [Google Cloud Leader Training Certificate (via Coursera)](https://www.coursera.org/account/accomplishments/professional-cert/JBTCDFTN8RB8)
 * [Hubspot's Inbound Certification](https://app.hubspot.com/academy/achievements/lc0lsyjt/en/1/jack-lenga/inbound)
 
 ### Carnegie Mellon University (2022-2026)
