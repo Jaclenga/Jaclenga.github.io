@@ -12,6 +12,7 @@ Hi! I'm Jack, an aspiring technical writer + security engineer studying at Carne
 **Technical Intern** - *Northrop Grumman* \
 *May 2023 - Present*
 - Shadowed DevOps engineers performing various tasks, including systems troubleshooting
+- Used PuTTY to configure switch + VLAN
 - Wrote documentation for the setup of various hardware + software
 - Used Microsoft 360 tools (Powerpoint, Excel, Visio) to create/edit presentations + diagrams 
 
