@@ -11,10 +11,11 @@ Hi! I'm Jack, an aspiring technical writer + security engineer studying at Carne
 
 **Technical Intern** - *Northrop Grumman* \
 *May 2023 - Present*
+- Used NetApp Ontap 9 to manage stored data
 - Shadowed DevOps engineers performing various tasks, including systems troubleshooting
-- Used PuTTY to configure switch + VLAN
-- Wrote documentation for the setup of various hardware + software
-- Used Microsoft 360 tools (Powerpoint, Excel, Visio) to create/edit presentations + diagrams 
+- Introduced design software Figma to several engineers, who now use it regularly
+- Used PuTTY to configure switch + VLANs
+- Used Microsoft 360 tools (Powerpoint, Excel, Visio) to develop documentation for the setup of various hardware + software
 
 **Director of Marketing** - *Physics for the Planet* \
 *Aug 2022 - Jun 2023*
