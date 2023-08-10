@@ -3,7 +3,7 @@ title: "about"
 icon: fas fa-info-circle
 order: 4
 ---
-Hi! I'm Jack, an aspiring technical writer + security engineer studying at Carnegie Mellon University.
+Hi! I'm Jack, an aspiring security engineer studying at Carnegie Mellon University.
 
 --- 
 
