@@ -6,15 +6,15 @@ order: 4
 Hi! I'm Jack, an aspiring security engineer studying at Carnegie Mellon University.
 
 --- 
-
 # Experience
 
 **Technical Intern** - *Northrop Grumman* \
 *May 2023 - Present*
-- Used NetApp Ontap 9 to manage stored data
+- Wrote various Python + Ansible scripts for data parsing, digital asset management, and other engineering tasks
+- Automated software downloads with Powershell
+- Engaged in daily Scrum meetings with the software engineering team
 - Shadowed DevOps engineers performing various tasks, including systems troubleshooting
-- Introduced design software Figma to several engineers, who now use it regularly
-- Used PuTTY to configure switch + VLANs
+- Introduced design software Figma to several engineers, who now use the tool regularly
 - Used Microsoft 360 tools (Powerpoint, Excel, Visio) to develop documentation for the setup of various hardware + software
 
 **Director of Marketing** - *Physics for the Planet* \
@@ -29,23 +29,25 @@ Hi! I'm Jack, an aspiring security engineer studying at Carnegie Mellon Universi
 - Worked with up to 9 students in 1-2 hour sessions per workday
 
 ---
-
 # Skills
 
 **Software**
 
-> Jira, Confluence, Microsoft 360, Figma, Slack, VS Code, Command Line, Trello, Jekyll, Git, GitHub, Ubuntu
+> Jira, Confluence, Microsoft 360, Figma, Slack, VS Code, Command Line, Trello, Jekyll, Git, GitHub, Ubuntu, Ansible
 
 **Languages**
 
-> Python, JavaScript, HTML, MarkDown, SQL
+> Python, Powershell, C, C#, JavaScript, HTML, MarkDown, SQL
 
-**Research**
+**Modules/Packages**
+
+> Tidyverse, dplyr, ggplot2, threading, NumPy, Beautiful Soup, requests
+
+**UX Research Methods**
 
 > Affinity Diagrams, Interviews, Surveys, Fly-On-The-Wall Observations
 
 ---
-
 # Education
 
 ### Certifications/Credentials
@@ -58,15 +60,32 @@ Hi! I'm Jack, an aspiring security engineer studying at Carnegie Mellon Universi
 ### Carnegie Mellon University (2022-2026)
 **Courses Taken**
 * 15-112: Fundamentals of Programming
-* 21-240: Matrix Algebra with Applications
-* 21-120: Differential and Integral Calculus
+* 21-120: Differential and Integral Calculus (Calc I)
+* 21-122: Integration and Approximation (Calc II)
+* 21-127: Concepts of Mathematics (Discrete Math)
+* 21-240: Matrix Algebra with Applications (Linear Algebra)
+* 67-309: Informaiton Assurance
 * 36-200: Reasoning with Data
+* 36-202: Methods for Statistics & Data Science
+* 17-735: Engineering Privacy in Software
 * 76-107: Writing About Data
 
-**Extracurriculars/Clubs** 
+**Extracurriculars/Clubs/School Projects** 
+
+*Analysis of USA Police Killings in 2015 - CMU Department of Statistics and Data Science*
+* Performed statistical analysis on online dataset via R
+* Sanitized dataset through dplyr and Tidyverse packages
+* Developed complex statistical visualizations via ggplot2
+* [Link to publication](https://www.stat.cmu.edu/capstoneresearch/315files_s24/team14.html)
+
+*Byzantine Robustness for Fed_IoT_Guard*
+* Deployed mathematical techniques to improve federated learning framework's resistance to data
+poisoning attacks
+* Performed extensive research on federated learning, data privacy, and data poisoning
+* [Link to publication](https://github.com/JessicaDai8/fed_iot_guard)
 
 *Design for America*
-* Worked with team to revice School of Computer Science's Research Position posting list (think of it like Indeed, but for CMU research positions)
+* Worked with team to revise School of Computer Science's Research Position posting list (think of it like Indeed, but for CMU research positions)
 * Helped devise survey for user feedback on old design
 * Organized several one-on-one interviews to discuss user feedback on old design
 
@@ -74,7 +93,6 @@ Hi! I'm Jack, an aspiring security engineer studying at Carnegie Mellon Universi
 * Met with mentor several times across school year to discuss career goals (specifically for technical writing)
 
 ---
-
 # Disclaimer
 
 The opinions expressed on this website are of my own and not necessarily of my employer
