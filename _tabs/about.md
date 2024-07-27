@@ -3,7 +3,7 @@ title: "about"
 icon: fas fa-info-circle
 order: 4
 ---
-Hi! I'm Jack, an aspiring security engineer studying at Carnegie Mellon University.
+Hi! I'm Jack, an aspiring data scientist studying at Carnegie Mellon University.
 
 --- 
 # Experience
@@ -33,7 +33,7 @@ Hi! I'm Jack, an aspiring security engineer studying at Carnegie Mellon Universi
 
 **Software**
 
-> Jira, Confluence, Microsoft 360, Figma, Slack, VS Code, Command Line, Trello, Jekyll, Git, GitHub, Ubuntu, Ansible
+> Jira, Confluence, Microsoft 360, Figma, Slack, VS Code, Command Line, Trello, Jekyll, Git, GitHub, Ubuntu, Ansible, GPG
 
 **Languages**
 
@@ -64,7 +64,7 @@ Hi! I'm Jack, an aspiring security engineer studying at Carnegie Mellon Universi
 * 21-122: Integration and Approximation (Calc II)
 * 21-127: Concepts of Mathematics (Discrete Math)
 * 21-240: Matrix Algebra with Applications (Linear Algebra)
-* 67-309: Informaiton Assurance
+* 67-309: Information Assurance
 * 36-200: Reasoning with Data
 * 36-202: Methods for Statistics & Data Science
 * 17-735: Engineering Privacy in Software
